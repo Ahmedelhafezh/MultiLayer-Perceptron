@@ -1,4 +1,4 @@
-// Daniel Shiffman
+// Rizki Ahmad Darmawan
 // The Nature of Code
 // http://natureofcode.com
 
