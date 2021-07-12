@@ -1,5 +1,5 @@
 // The Nature of Code
-// Daniel Shiffman
+// Rizki Ahmad Darmawan
 // http://natureofcode.com
 
 // Simple Perceptron Example
